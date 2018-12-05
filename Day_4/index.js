@@ -17,6 +17,8 @@ const parseLine = input => {
   return input;
 };
 
+//need to go back and look at
+
 const countSleep = input => {
   let guardArray = [];
   let falls;
